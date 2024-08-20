@@ -2,10 +2,10 @@
 
 Welcome to PokemonsRNApp! This is a React Native application for displaying Pokémon details using the PokeAPI.
 Task:
-- Build a BroadcastReceiver that listens to USER_PRESENT Intent
-- Implement a background task that runs periodically
-- Everytime the background task runs, create a push notification that shows the
-user how long the phone was active since the Intent was triggered.
+● Query Pokeapi v2 (https://pokeapi.co/) using fetch API
+● Display the total amount of Pokémons from https://pokeapi.co/api/v2/pokemon/
+● Display the name and image of one of the first 151 Pokémons
+● Add a button that changes the displayed Pokémon to another
 
 ## Getting Started
 
